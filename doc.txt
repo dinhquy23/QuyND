@@ -1,2 +1,1 @@
-day commit nhanh master hay lay ve nhanh A di
-toi da lay ve nhanh A roi gio hay lay ve nhanh master di
+xao het noi dung file doc
